@@ -4,6 +4,9 @@ This repo has all the resources you need to become an amazing analytics engineer
 ## Resources
 
 Great books:
+[Fundamentals of Analytics Engineering](https://www.amazon.com/Fundamentals-Analytics-Engineering-end-end/dp/1837636451)
+[Data Engineering with dbt](https://www.amazon.com/dp/1803246286)
+[Data Modeling with Snowflake](https://www.amazon.com/Data-Modeling-Snowflake-accelerating-development/dp/1837028036)
 
 Communities:
 
