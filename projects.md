@@ -1,0 +1,31 @@
+# Free Projects You Could Work On
+
+- Build a dbt project from scratch
+  - [Jaffle Shop dbt Tutorial](https://github.com/dbt-labs/jaffle_shop)
+  - [dbt Quickstart Guide](https://docs.getdbt.com/quickstarts)
+  - [MrBeast YouTube Analytics dbt Project](https://github.com/dbt-labs/mrbeast-youtube-analytics)
+- Build a full analytics stack with dbt + a data warehouse
+  - [dbt + BigQuery Quickstart](https://docs.getdbt.com/quickstarts/bigquery)
+  - [dbt + Snowflake Quickstart](https://docs.getdbt.com/quickstarts/snowflake)
+  - [dbt + DuckDB Local Development](https://docs.getdbt.com/quickstarts/duckdb)
+- Build a metrics/semantic layer
+  - [dbt Semantic Layer Tutorial](https://docs.getdbt.com/docs/build/sl-getting-started)
+  - [Cube.dev Getting Started](https://cube.dev/docs/getting-started)
+  - [MetricFlow Tutorial](https://docs.getdbt.com/docs/build/about-metricflow)
+- Build a data quality testing framework
+  - [dbt Tests Tutorial](https://docs.getdbt.com/docs/build/data-tests)
+  - [Great Expectations Quickstart](https://docs.greatexpectations.io/docs/tutorials/quickstart/)
+  - [Elementary Data Quickstart](https://docs.elementary-data.com/quickstart)
+- Build an end-to-end ELT pipeline
+  - [Airbyte + dbt + Dagster Tutorial](https://docs.dagster.io/integrations/airbyte)
+  - [Fivetran + dbt Integration](https://www.fivetran.com/docs/transformations/dbt)
+  - [Meltano Getting Started](https://docs.meltano.com/getting-started/)
+- Build a BI dashboard from a dbt project
+  - [Lightdash + dbt Tutorial](https://docs.lightdash.com/get-started/setup-lightdash/install-lightdash)
+  - [Metabase + dbt Integration](https://www.metabase.com/docs/latest/databases/connections/bigquery)
+  - [Evidence.dev Getting Started](https://docs.evidence.dev/getting-started/install-evidence)
+- Build a data documentation site
+  - [dbt Docs Generation](https://docs.getdbt.com/reference/commands/cmd-docs)
+  - [Datahub Quickstart](https://datahubproject.io/docs/quickstart)
+- **[The Complete dbt Bootcamp](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero/)**: End-to-end dbt course covering models, tests, documentation, snapshots, and deployment.
+- **[Analytics Engineering with dbt (Coursera)](https://www.coursera.org/learn/analytics-engineering-with-dbt)**: A structured course on analytics engineering fundamentals using dbt.
