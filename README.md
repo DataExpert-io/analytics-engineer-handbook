@@ -89,6 +89,10 @@ Top must-join communities for Analytics Engineering:
   - [Astronomer / Airflow](https://www.astronomer.io)
   - [Mage](https://www.mage.ai)
   - [Kestra](https://kestra.io/)
+- CI/CD & Deployment
+  - [Datafold](https://www.datafold.com/)
+  - [Recce](https://datarecce.io/)
+  - [dbt-ci](https://github.com/datablock-dev/dbt-ci)
 - Data Cataloging & Documentation
   - [Atlan](https://atlan.com/)
   - [Alation](https://www.alation.com/)
